@@ -134,7 +134,7 @@ export default function About() {
         </div>
       </section>
 
-      {/* Microsoft Imagine Cup */}
+      {}
       <section className="py-24 bg-gradient-primary text-primary-foreground">
         <div className="container mx-auto px-4 sm:px-6 lg:px-8">
           <motion.div

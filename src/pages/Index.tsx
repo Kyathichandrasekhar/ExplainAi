@@ -118,7 +118,7 @@ export default function Index() {
               className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-secondary/10 border border-secondary/20 mb-8"
             >
               <Sparkles className="w-4 h-4 text-secondary" />
-              <span className="text-sm font-medium text-secondary">Microsoft Imagine Cup Project</span>
+              <span className="text-sm font-medium text-secondary">Explain - Ai</span>
             </motion.div>
 
             <motion.h1
